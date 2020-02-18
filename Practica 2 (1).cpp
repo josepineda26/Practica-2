@@ -7,7 +7,7 @@ int opt;
 
 printf(" 1.- Suma \n 2.- Resta \n 3.- Multiplicacion \n 4.- Division");
 printf(" \n Seleccione una opcion: ");
-scanf("%f",&opt);
+scanf("%d",&opt);
 printf("Ingrese el primer operando: ");
 scanf("%f",&a);
 printf("Ingrese el segundo operando: ");
